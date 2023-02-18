@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @javadsaeid
-- 👀 I’m interested in javadscript , php , reactjs , symfony framework
+- 👀 I’m interested in javaScript , php , reactjs and symfony framework
 - 💞️ I’m looking to collaborate on reactjs or symfony projects
 - 📫 reach me by javadsaeid8@gmail.com
 
