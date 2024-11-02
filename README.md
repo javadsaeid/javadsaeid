@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javadsaeid
 - 👀 I’m interested in javaScript ,typeScript, PHP  
-- 💞️ I’m looking to collaborate on javaScript | Reactjs | typeScript | PHP | Symfony | Laravel projects
+- 💞️ I’m looking to collaborate on javaScript | Reactjs | typeScript | PHP | Symfony projects
 - 📫 reach me by javadsaeid8@gmail.com
 
 <!---
