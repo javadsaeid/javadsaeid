@@ -1,9 +1,25 @@
-👋 Hey there! I’m a Full-Stack Developer who’s diving into the world of Java and making the exciting switch to the Java ecosystem. My background is in PHP, Symfony, JavaScript, React, and MySQL, but now I’m expanding my skills with Spring Boot and all things Java.
+👋 Hi, I’m Javad!
+I’m a passionate Full-Stack Developer with a growing interest in the Java ecosystem. After years of working with technologies like PHP, Symfony, JavaScript, React, and MySQL, I’ve started my journey into Java and Spring Boot to explore new opportunities and challenges.
 
-💡 I love building useful web apps, solving problems, and learning new tools and technologies. Switching stacks has been a big step, and I’m excited about where this journey will take me!
+🌟 About Me
+💻 Currently learning: Java | Spring Boot
+🔄 Transitioning my stack to the Java ecosystem
+🚀 Building scalable web applications with a focus on performance and user experience
+🤝 Open to collaborating on exciting and impactful projects
+🛠️ Skills
+Here’s what I’ve been working with:
 
-🌟 Always up for collaboration and connecting with like-minded developers—let’s create something awesome together!
-<!---
-javadsaeid/javadsaeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend: React, JavaScript, TypeScript, HTML, CSS
+Backend: PHP, Symfony (previous stack), Java, Spring Boot (current focus)
+Databases: MySQL, PostgreSQL
+Tools: Docker, Git, Nginx, API Platform
+🌱 What’s Next?
+I’m diving deep into:
+
+Building enterprise-grade applications with Java and Spring Boot
+Learning best practices for Java backend architecture
+Exploring tools in the Spring ecosystem
+🤝 Let’s Connect
+I love meeting other developers and exchanging ideas! Feel free to connect with me:
+
+LinkedIn: https://www.linkedin.com/in/javad-saeid
