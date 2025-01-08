@@ -1,5 +1,5 @@
 👋 Hi, I’m Javad!
-I’m a passionate Full-Stack Developer with a growing interest in the Java ecosystem. After years of working with technologies like PHP, Symfony, JavaScript, React, and MySQL, I’ve started my journey into Java and Spring Boot to explore new opportunities and challenges.
+I’m a passionate Software Engineer with a growing interest in the Java ecosystem. After years of working with technologies like PHP, Symfony, JavaScript, React, and MySQL, I’ve started my journey into Java and Spring Boot to explore new opportunities and challenges.
 
 🌟 About Me
 💻 Currently learning: Java | Spring Boot
